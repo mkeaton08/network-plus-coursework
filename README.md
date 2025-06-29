@@ -1,4 +1,4 @@
-# Ontroduction to Computer Networks
+# Introduction to Computer Networks
 Students will learn the basics of interconnectivity of computing systems. With fundamental 
 networking knowledge, students will design a basic and secure computing environment that 
 consists of a network, server, client system, and firewall.
